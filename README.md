@@ -12,3 +12,7 @@ In order to interpret what needs the users have for DriverPass, I reviewed the D
 
 How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 For me, I would appraoch software design by first gathering all the materials and documents needed to identify the users and fuctionality of the system I am working on.  I would then work on gathering the business requirements and determine the nonfunctional and functional requirements for the system.  I would also begin on creating UML diagrams that support the intended functionality of the system and it's intended users.  I would also utilize collaborating with other team members (if available) to ensure that there are no unaccounted functionality or gaps in logic that would cause problems if the system was functional.  
+
+
+References:
+Wayne, M. (2024, February 17). Understanding user requirements in systems engineering. Reqi Systems Engineering Articles. https://reqi.io/articles/understanding-user-requirements-in-systems-engineering
